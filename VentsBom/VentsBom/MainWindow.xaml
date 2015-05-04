@@ -1,0 +1,14 @@
+﻿<Window x:Class="VentsBom.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Спецификация" Height="Auto" Width="Auto" Icon="sp_a4.ico" SizeToContent="WidthAndHeight" MinWidth="250" MinHeight="250" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" WindowStyle="ThreeDBorderWindow">
+    <Grid x:Name="Window"/>
+    
+    <!--<Window.CommandBindings>
+        <CommandBinding Command="Close" Executed="OnCloseCmdExecuted" />
+    </Window.CommandBindings>
+    <Window.InputBindings>
+        <KeyBinding Command="Close" Key="Escape" />
+    </Window.InputBindings>-->
+    
+</Window>

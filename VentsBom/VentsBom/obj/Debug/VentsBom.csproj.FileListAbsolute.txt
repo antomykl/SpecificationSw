@@ -1,0 +1,58 @@
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\VentsBom\VentsBom\bin\Debug\VentsBom.exe.config
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\VentsBom\VentsBom\bin\Debug\VentsBom.exe
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\VentsBom\VentsBom\bin\Debug\VentsBom.pdb
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\VentsBom\VentsBom\bin\Debug\SwBomDll.dll
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\VentsBom\VentsBom\bin\Debug\SwBomDll.pdb
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\VentsBom\VentsBom\obj\Debug\VentsBom.csprojResolveAssemblyReference.cache
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\VentsBom\VentsBom\obj\Debug\BomControl.baml
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\VentsBom\VentsBom\obj\Debug\MainWindow.baml
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\VentsBom\VentsBom\obj\Debug\BomControl.g.cs
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\VentsBom\VentsBom\obj\Debug\MainWindow.g.cs
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\VentsBom\VentsBom\obj\Debug\App.g.cs
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\VentsBom\VentsBom\obj\Debug\VentsBom_MarkupCompile.cache
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\VentsBom\VentsBom\obj\Debug\VentsBom.g.resources
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\VentsBom\VentsBom\obj\Debug\VentsBom.Properties.Resources.resources
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\VentsBom\VentsBom\obj\Debug\VentsBom.csproj.GenerateResource.Cache
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\VentsBom\VentsBom\obj\Debug\VentsBom.exe
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\VentsBom\VentsBom\obj\Debug\VentsBom.pdb
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\VentsBom\VentsBom\bin\Debug\DataGridFilterLibrary.dll
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\VentsBom\VentsBom\bin\Debug\DataGridFilterLibrary.pdb
+C:\Users\kb81.VENTS\Source\Repos\SpecSw\VentsBom\VentsBom\bin\Debug\VentsBom.exe.config
+C:\Users\kb81.VENTS\Source\Repos\SpecSw\VentsBom\VentsBom\obj\Debug\VentsBom.exe
+C:\Users\kb81.VENTS\Source\Repos\SpecSw\VentsBom\VentsBom\obj\Debug\VentsBom.pdb
+C:\Users\kb81.VENTS\Source\Repos\SpecSw\VentsBom\VentsBom\bin\Debug\VentsBom.exe
+C:\Users\kb81.VENTS\Source\Repos\SpecSw\VentsBom\VentsBom\bin\Debug\VentsBom.pdb
+C:\Users\kb81.VENTS\Source\Repos\SpecSw\VentsBom\VentsBom\bin\Debug\SwBomDll.dll
+C:\Users\kb81.VENTS\Source\Repos\SpecSw\VentsBom\VentsBom\bin\Debug\SwBomDll.pdb
+C:\Users\kb81.VENTS\Source\Repos\SpecSw\VentsBom\VentsBom\bin\Debug\DataGridFilterLibrary.pdb
+C:\Users\kb81.VENTS\Source\Repos\SpecSw\VentsBom\VentsBom\obj\Debug\VentsBom.csprojResolveAssemblyReference.cache
+C:\Users\kb81.VENTS\Source\Repos\SpecSw\VentsBom\VentsBom\obj\Debug\BomControl.baml
+C:\Users\kb81.VENTS\Source\Repos\SpecSw\VentsBom\VentsBom\obj\Debug\MainWindow.baml
+C:\Users\kb81.VENTS\Source\Repos\SpecSw\VentsBom\VentsBom\obj\Debug\BomControl.g.cs
+C:\Users\kb81.VENTS\Source\Repos\SpecSw\VentsBom\VentsBom\obj\Debug\MainWindow.g.cs
+C:\Users\kb81.VENTS\Source\Repos\SpecSw\VentsBom\VentsBom\obj\Debug\App.g.cs
+C:\Users\kb81.VENTS\Source\Repos\SpecSw\VentsBom\VentsBom\obj\Debug\VentsBom_MarkupCompile.cache
+C:\Users\kb81.VENTS\Source\Repos\SpecSw\VentsBom\VentsBom\obj\Debug\VentsBom.g.resources
+C:\Users\kb81.VENTS\Source\Repos\SpecSw\VentsBom\VentsBom\obj\Debug\VentsBom.Properties.Resources.resources
+C:\Users\kb81.VENTS\Source\Repos\SpecSw\VentsBom\VentsBom\obj\Debug\VentsBom.csproj.GenerateResource.Cache
+E:\Новая папка\VentsBom\VentsBom\bin\Debug\VentsBom.exe.config
+E:\Новая папка\VentsBom\VentsBom\obj\Debug\VentsBom.exe
+E:\Новая папка\VentsBom\VentsBom\obj\Debug\VentsBom.pdb
+E:\Новая папка\VentsBom\VentsBom\bin\Debug\VentsBom.exe
+E:\Новая папка\VentsBom\VentsBom\bin\Debug\VentsBom.pdb
+E:\Новая папка\VentsBom\VentsBom\bin\Debug\SwBomDll.dll
+E:\Новая папка\VentsBom\VentsBom\bin\Debug\SwBomDll.pdb
+E:\Новая папка\VentsBom\VentsBom\bin\Debug\DataGridFilterLibrary.pdb
+E:\Новая папка\VentsBom\VentsBom\obj\Debug\VentsBom.csprojResolveAssemblyReference.cache
+E:\Новая папка\VentsBom\VentsBom\obj\Debug\BomControl.baml
+E:\Новая папка\VentsBom\VentsBom\obj\Debug\MainWindow.baml
+E:\Новая папка\VentsBom\VentsBom\obj\Debug\BomControl.g.cs
+E:\Новая папка\VentsBom\VentsBom\obj\Debug\MainWindow.g.cs
+E:\Новая папка\VentsBom\VentsBom\obj\Debug\App.g.cs
+E:\Новая папка\VentsBom\VentsBom\obj\Debug\VentsBom_MarkupCompile.cache
+E:\Новая папка\VentsBom\VentsBom\obj\Debug\VentsBom.g.resources
+E:\Новая папка\VentsBom\VentsBom\obj\Debug\VentsBom.Properties.Resources.resources
+E:\Новая папка\VentsBom\VentsBom\obj\Debug\VentsBom.csproj.GenerateResource.Cache
+C:\Users\5\Source\Repos\SpecificationSw\VentsBom\VentsBom\bin\Debug\VentsBom.exe.config
+C:\Users\5\Source\Repos\SpecificationSw\VentsBom\VentsBom\obj\Debug\VentsBom.exe
+C:\Users\5\Source\Repos\SpecificationSw\VentsBom\VentsBom\obj\Debug\VentsBom.pdb

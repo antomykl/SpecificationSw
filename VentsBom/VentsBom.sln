@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VentsBom", "VentsBom\VentsBom.csproj", "{7EC1278E-8593-49AC-B70C-698AD0FCF7E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwBomDll", "SwBomDll\SwBomDll.csproj", "{42718F5A-8C3A-4FB7-B093-1CB8C461E2B3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Спецификация", "Спецификация", "{C64D5B14-6DC5-4647-ADCF-20589289262F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EC1278E-8593-49AC-B70C-698AD0FCF7E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EC1278E-8593-49AC-B70C-698AD0FCF7E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EC1278E-8593-49AC-B70C-698AD0FCF7E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EC1278E-8593-49AC-B70C-698AD0FCF7E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42718F5A-8C3A-4FB7-B093-1CB8C461E2B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42718F5A-8C3A-4FB7-B093-1CB8C461E2B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42718F5A-8C3A-4FB7-B093-1CB8C461E2B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42718F5A-8C3A-4FB7-B093-1CB8C461E2B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{42718F5A-8C3A-4FB7-B093-1CB8C461E2B3} = {C64D5B14-6DC5-4647-ADCF-20589289262F}
+		{7EC1278E-8593-49AC-B70C-698AD0FCF7E5} = {C64D5B14-6DC5-4647-ADCF-20589289262F}
+	EndGlobalSection
+EndGlobal
